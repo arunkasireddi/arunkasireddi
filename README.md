@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Arun Kumar
 
 - 🔭 I’m currently working on Java 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and React
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/arunkasireddi/)
 
 <!--
