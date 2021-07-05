@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Arun Kumar
 
 
-- 📫 How to reach me: [Here](https://www.linkedin.com/in/arunkasireddi/)
+- 🔭 📫 More about what I do: [Here](https://www.linkedin.com/in/arunkasireddi/)
 
 <!--
 **arunkasireddi/arunkasireddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
